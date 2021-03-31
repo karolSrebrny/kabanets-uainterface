@@ -1,0 +1,8 @@
+{
+  "name": "kabanets/uainterface",
+  "autoload": {
+    "psr-4": {
+      "Hillel\\User\\": "./src"
+    }
+  }
+}
